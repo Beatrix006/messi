@@ -1,0 +1,41 @@
+h1 {
+  background: white;
+  font-size: 800%;
+    font-style: italic;
+    text-align: center;
+    }
+    i {background: white;
+    font-size: 186%;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    }
+    img {
+    width: 97.5%;
+    }
+    .division0 {
+      background: white; 
+      margin: 5%; 
+      padding: 2%;
+      text-align: left;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    .division1 {
+      background: white;
+      margin: 2%;
+      padding: 3%;
+    }
+    .division2 {
+      background: rgb(234, 236, 243);
+      text-align: left;
+                margin-top: 5%;
+                margin-bottom: 5%;
+                margin-left: 5%;
+                margin-right: 7%;
+    }
+    table, th, td {
+      border: 1px solid black;
+      border-collapse: collapse;
+      background-color: lightpink;
+      margin: 5%;
+      
+    }   
